@@ -2,7 +2,9 @@
 Python Data Structures and Coding
 
 Solutions for the below questions:
+
 STRINGS:
+
 Python program to remove given character from String. 
 
 Python Program to count occurrence of a given characters in string. 
