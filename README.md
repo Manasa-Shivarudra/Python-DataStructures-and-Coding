@@ -1,8 +1,7 @@
 # Python-DataStructures-and-Coding
 Python Data Structures and Coding
 
-Solutions for the below questions:
+STRINGS: This has simple solved questions on Strings
 
-STRINGS:
+ARRAYS: This has simple and medium level solved questions on Arrays
 
-ARRAYS:
